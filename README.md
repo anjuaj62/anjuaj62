@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anju A J 👋
 
-<!--
-**anjuaj62/anjuaj62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 BSc Physics Graduate with hands-on training in Embedded Systems
+🚀 Passionate about Space Science & Technology — where physics meets engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+**Programming**
+- C Programming
+- Microcontrollers
+- Timers & Communication Protocols (UART, SPI, I2C)
+
+**Tools & IDEs**
+- VS Code
+- Arduino IDE
+- STM32CubeIDE
+- Proteus
+- MPLAB
+
+---
+📫 Open to internships in Embedded Systems, Firmware Development & Space Technology
